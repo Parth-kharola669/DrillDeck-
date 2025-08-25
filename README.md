@@ -29,18 +29,10 @@ This project was born out of a real athlete’s experience, making practice more
 ## 📸 Screenshots
 Here’s a preview of DrillDeck in action:  
 
-![DrillDeck Mockup]https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%201.png
-                   https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%202.png
-                   https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%203.png
----
+![DrillDeck Mockup]
 
-## 🛠️ Tech Stack
-Built with a focus on usability and scalability:  
-- **Frontend**: React Native (or Flutter, depending on your build)  
-- **Backend**: Node.js / Firebase (if applicable)  
-- **Design**: Figma, Canva (for mockups)  
 
----
+
 
 ## 📖 Case Study
 Read the full product thinking and case study:  
