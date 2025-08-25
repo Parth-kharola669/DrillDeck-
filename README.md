@@ -28,8 +28,9 @@ This project was born out of a real athlete’s experience, making practice more
 
 ## 📸 Screenshots
 Here’s a preview of DrillDeck in action:  
+https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%201.png
 
-![DrillDeck Mockup]
+[DrillDeck Mockup]
 
 
 
