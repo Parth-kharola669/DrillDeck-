@@ -31,7 +31,7 @@ Here’s a preview of DrillDeck in action:
 
 ![DrillDeck Mockup]https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%201.png
                    https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%202.png
-
+                   https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%203.png
 ---
 
 ## 🛠️ Tech Stack
