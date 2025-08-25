@@ -35,10 +35,11 @@ https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%
 
 
 
-## 📖 Case Study
+📖 Case Study
 Read the full product thinking and case study:  
-👉 [docs/case-study.md](docs/case-study.md) *(you can add a write-up here about your journey)*
-
+👉
+[docs/case-study.md](docs/case-study.md)
+https://github.com/Parth-kharola669/DrillDeck-/blob/main/CASE-STUDy.md
 ---
 
 ## 🤝 Contributing
@@ -50,7 +51,6 @@ Feel free to open a PR or reach out with ideas.
 ## 📬 Contact
 👤 **Parth Kharola**  
 - LinkedIn: [linkedin.com/in/parthkharola](https://linkedin.com/in/parthkharola)  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
 
 ---
 
