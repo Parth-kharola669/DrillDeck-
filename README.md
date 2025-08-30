@@ -33,13 +33,6 @@ https://github.com/Parth-kharola669/DrillDeck-/blob/main/DrillDeck%20screenshot%
 [DrillDeck Mockup]
 
 
-
-
-📖 Case Study
-Read the full product thinking and case study:  
-👉
-[docs/case-study.md](docs/case-study.md)
-https://github.com/Parth-kharola669/DrillDeck-/blob/main/CASE-STUDy.md
 ---
 
 ## 🤝 Contributing
